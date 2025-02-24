@@ -8,6 +8,7 @@ Incremental game starting with life evolution on a single planet, eventually gro
 - Matter.js for physics and collision
 - RBush for spatial partitioning
 - Three.js for gravitational lensing effects
+- Next.js as UI framework
 
 ## Game Progression
 
